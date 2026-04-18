@@ -11,4 +11,6 @@ Currently, I'm part of an undergraduate research project focused on developing A
 
 I'm especially interested in artificial intelligence, computer vision, IoT, and software development, always focusing on continuous learning and building real projects.
 
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-pedro&layout=compact&theme=tokyonight)
+
 <img src="https://skillicons.dev/icons?i=arduino,godot,html,css,js,c,cpp,dart,flutter,python,ai" />
