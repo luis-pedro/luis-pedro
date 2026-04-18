@@ -11,11 +11,26 @@ Currently, I'm part of an undergraduate research project focused on developing A
 
 I'm especially interested in artificial intelligence, computer vision, IoT, and software development, always focusing on continuous learning and building real projects.
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luis-pedro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luis Pedro github stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-pedro&layout=compact&theme=buefy&hide_border=true" /></a>
+<div style="border: 2px solid #4A90E2; border-radius: 10px; padding: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luis-pedro&show_icons=true&include_all_commits=true&theme=tokyonight" height="165"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-pedro&layout=compact&theme=tokyonight" height="170"/>
+  </a>
 </div>
 
-<div>
+<br><br>
+
+<div aling="center">
   <img src="https://skillicons.dev/icons?i=arduino,godot,html,css,js,c,cpp,dart,flutter,python,ai">
+</div>
+
+##
+
+<div>
+  <a href="https://instagram.com/luispedro.costa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luispedroccosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luispedro.costa@inatel.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luispedrodocarmocosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
