@@ -11,6 +11,11 @@ Currently, I'm part of an undergraduate research project focused on developing A
 
 I'm especially interested in artificial intelligence, computer vision, IoT, and software development, always focusing on continuous learning and building real projects.
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-pedro&layout=compact&theme=tokyonight)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luis-pedro&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Luis Pedro github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-pedro&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
 
-<img src="https://skillicons.dev/icons?i=arduino,godot,html,css,js,c,cpp,dart,flutter,python,ai" />
+<div>
+  <img src="https://skillicons.dev/icons?i=arduino,godot,html,css,js,c,cpp,dart,flutter,python,ai">
+</div>
