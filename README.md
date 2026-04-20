@@ -26,6 +26,11 @@ I'm especially interested in artificial intelligence, computer vision, IoT, and 
   <img src="https://skillicons.dev/icons?i=arduino,godot,html,css,js,c,cpp,dart,flutter,python,ai">
 </div>
 
+<br>
+
+<img width="600" alt="github_image" src="https://github.com/user-attachments/assets/7d7b5691-7ac9-48f3-8519-52e68db6f4c8" />
+
+
 ##
 
 <div>
